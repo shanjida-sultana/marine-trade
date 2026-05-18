@@ -1,0 +1,11 @@
+Screen definition:
+
+Map view: live route line with milestone markers — Departed Port -> In Transit -> Arrived -> Customs -> Delivered; ETA countdown, last update timestamp
+
+User story:
+
+As a buyer, I want real-time tracking so I can plan my operations around delivery
+
+Acceptance criteria:    i. Map should  load in <3s
+ii. Milestones should  update on provider action
+iii. Email should alert at each milestone
