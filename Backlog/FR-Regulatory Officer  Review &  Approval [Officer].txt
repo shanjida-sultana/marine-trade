@@ -1,0 +1,13 @@
+Screen Definition :
+
+Panel: Permit Applications table — App ID | Trader | Species | Qty | Country | Submitted | [Review] [Approve] [Reject w/ reason]
+
+User story:
+
+As a regulatory officer, I want to review and approve permit applications digitally
+
+Acceptance criteria:
+
+i. Approval should trigger permit PDF
+ii. Rejection should reason mandatory
+iii. Response should be logged with timestamp
