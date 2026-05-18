@@ -1,0 +1,13 @@
+Screen definition :
+
+Form: select order, dispute_type (Quality/Delay/Payment/Documentation), description, evidence upload; Admin panel: table — Dispute ID | Parties | Type | Filed Date | Status | [Review] [Resolve] [Escalate]
+
+User story :
+
+As a trader, I want to file a dispute so unresolved trade issues can be handled fairly
+
+Acceptance criteria :
+
+i. Evidence  should upload ≤15MB
+ii. Admin should  response within 72h SLA
+iii. Resolution should  be logged and emailed
