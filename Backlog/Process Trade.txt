@@ -1,0 +1,13 @@
+Screen definition :
+
+Form: order summary, amount, currency, payment_method (Bank Transfer/LC/bKash/Stripe), partial_payment option (30% min), [Pay Now] button
+
+User story:
+
+As a buyer, I want flexible payment options so I can complete transactions securely
+
+Acceptance criteria:
+
+i. 30% partial should payment minimum
+ii. LC document should upload supported
+iii. Receipt should be emailed on success
