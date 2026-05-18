@@ -1,0 +1,13 @@
+Screen definition :
+
+Form: star rating (1-5) overall + sub-ratings (Quality, Communication, Timeliness, Packaging), written review textarea, [Submit] button — unlocked after order Delivered
+
+User story :
+
+As a buyer, I want to rate my trade partner so the community maintains quality standards
+
+Acceptance criteria :
+
+i. Review unlocks should only post-delivery
+ii. A written review should contain a minimum of 250 characters.
+iii. Only one review should be submitted per order.
