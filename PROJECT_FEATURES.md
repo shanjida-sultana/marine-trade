@@ -6,3 +6,5 @@
 
 Status: Implemented
 
+## FR-Exporter-Importer-Discovery: Search & Filter
+The user should be able to Search & Filter Listings as Importer/Exporter
