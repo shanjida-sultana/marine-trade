@@ -1,0 +1,13 @@
+Screen definition:
+
+Page: archived docs table — Doc ID | Type | Order ID | Date | Status | [Download]; search by date/type/order
+
+User story:
+
+As a trader, I want access to all past trade documents for audit and reference
+
+Acceptance criteria:
+
+i. Docs should be retained for 5 years
+ii. Download as ZIP should be supported
+iii. Role-filtered should visible

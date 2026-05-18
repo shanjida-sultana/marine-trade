@@ -1,0 +1,13 @@
+Screen definition :
+
+Form: select order -> status dropdown (Picked Up / In Transit / At Port / Customs Cleared / Delivered) -> location update -> [Save Update]
+
+User story :
+
+As a logistics provider, I want to update shipment milestones so all parties stay informed
+
+Acceptance criteria:
+
+i. Updates should visible to buyer/seller in <1min
+ii. GPS should coordinate optional
+iii. Mandatory on status should change

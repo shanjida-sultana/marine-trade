@@ -1,0 +1,13 @@
+Screen definition :
+
+Panel: available providers list — Company | Fleet | Routes | Rating | [Select]; confirm modal with ETA and cost summary
+
+User story:
+
+As an exporter, I want to assign a logistics provider so my cargo is handled by a verified carrier
+
+Acceptance criteria :
+
+i. Provider should  have active license
+ii. ETA should be auto-calculated from port data
+iii. Assignment should trigger notification
