@@ -1,0 +1,13 @@
+Screen definition :
+
+System: per confirmed payment — Gross Amount | 8% Platform Commission | Net to Fisher/Exporter; visible in Admin Payment Dashboard and user transaction log
+
+User story :                                                                                                       As an admin, I want automatic commission deduction so revenue collection is accurate
+
+Acceptance criteria:
+
+i. The commission rate should be configurable by the Admin.
+
+ii.The net payout should be shown before confirmation
+
+iii. An audit log should be maintained for each transaction.
